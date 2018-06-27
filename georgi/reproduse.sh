@@ -44,7 +44,7 @@ for i in $(cat links.txt); do
 		
 
 
-		if  [[ $(read_butonts 2) = "1" ]]; then
+		if  [[ $(read_butonts 1) = "1" ]]; then
 			linktoarticle=$(echo "cat /rss/channel/item/link/text()" | xmllint --nocdata --shell feed"$k".txt |  sed '1d;$d' |sed -e ':a;N;$!ba;s/-------\n/ /g'| sed $m'!d')
 				
 			wget -O article.txt $linktoarticle 
