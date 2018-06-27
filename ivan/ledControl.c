@@ -1,4 +1,5 @@
 #include <wiringPi.h>
+#include <stdio.h>
 #include "pinout.h"
 
 int main(int argc, char const *argv[])
@@ -9,7 +10,7 @@ int main(int argc, char const *argv[])
 	pinMode(LED3,OUTPUT);
 	pinMode(LED4,OUTPUT);
 
-	for(int i = 0 , i<argc ; i++)
+	for(int i = 0 ; i<argc ; i++)
 	{
 		printf("%d -> %s\n", i, argv[i]);
 	}
