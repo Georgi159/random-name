@@ -25,8 +25,8 @@ while [[ true ]]; do
 
 	if [[ $(read_butonts 1) = "1" ]]; then
        	
-       	killall google_speech
-		killall sox
+       	#killall google_speech
+		killall play
 		echo "kiled" >> /tmp/killed
     fi
 
