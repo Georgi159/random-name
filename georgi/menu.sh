@@ -9,7 +9,7 @@ pos=1
 for i in $(cat menu.txt); do
     echo $pos
     google_speech -l en $i
-    
+    sleep 0.2
     if [[ -f /tmp/killed ]]; then
     	echo "dsadsadasdsadsa"
        case $i in
@@ -29,7 +29,7 @@ for i in $(cat menu.txt); do
     	rm /tmp/killed 
     fi
 
-    sleep 0.2
+   
 
     ((pos++))
 done

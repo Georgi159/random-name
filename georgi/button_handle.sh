@@ -10,8 +10,10 @@ chmod 777 $(cat location_of_buton)
 while [[ true ]]; do
 	#./sleep_until_modified.sh $(cat location_of_buton)
 
-	inotifywait -q -m -e open /tmp/button_values.io | while [[  ]]; do
-		#statements
+	inotifywait -q -m -e open /tmp/button_values.io | while  read path action ; do
+		if [[ $action = "OPEN" ]]; then
+			break;
+		fi
 	done
 
 	echo "buton read" >> logfile.log
