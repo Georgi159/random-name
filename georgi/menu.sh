@@ -1,7 +1,7 @@
 #!/bin/bash
 
 read_butonts () {
-sed $1'!d'  butonts | sed 's/B[0-9]\s//'
+sed $1'!d'  $(cat location_of_buton) | sed 's/B[0-9]\s//'
 }
 
 
