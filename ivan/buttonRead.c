@@ -1,5 +1,6 @@
 #include <wiringPi.h>
 #include <stdio.h>
+#include <string.h>
 #include "pinout.h"
 
 #define drBUT1 !digitalRead(BUT1)
@@ -24,18 +25,30 @@ int main()
 	pullUpDnControl(BUT3,PUD_UP);
 	pullUpDnControl(BUT4,PUD_UP);
 
+	char poll_new[30] = { 0 };
+	char poll_old[30] = { 0 };
+
 	// printf(OUTPUT_STRING, drBUT1, drBUT2, drBUT3, drBUT4);
 
 	FILE *fp;
-	fp = fopen(OUTPUT_FILE, "w");
+	// fp = fopen(OUTPUT_FILE, "w");
 	// fprintf(fp, OUTPUT_STRING, drBUT1, drBUT2, drBUT3, drBUT4);
 
 	while(LOOP)
 	{
-		rewind(fp);
-		fprintf(fp, OUTPUT_STRING, drBUT1, drBUT2, drBUT3, drBUT4);
+		// rewind(fp);
+		sprintf(poll_new, OUTPUT_STRING, drBUT1, drBUT2, drBUT3, drBUT4);
+		// printf("%s", poll_new);
+		if(strcmp(poll_new, poll_old) != 0)
+		{
+			fp = fopen(OUTPUT_FILE, "w");
+			strcpy(poll_old, poll_new);
+			fprintf(fp, poll_new);
+			// printf("Updated!\n");
+			fclose(fp);
+		}
 	}
 
-	fclose(fp);
+	// fclose(fp);
 	return 0;
 }

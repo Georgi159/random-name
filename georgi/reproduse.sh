@@ -31,7 +31,17 @@ for i in $(cat links.txt); do
 		done
 
 		google_speech -l en $l 
-		google_speech -l en $sdre
+		if [[ -f  /tmp/killed  ]]; then
+			rm  /tmp/killed
+		else
+			google_speech -l en $sdre
+		fi
+
+		if [[ -f  /tmp/killed  ]]; then
+			rm  /tmp/killed
+		fi
+
+		
 
 
 		if  [[ $(read_butonts 2) = "1" ]]; then
