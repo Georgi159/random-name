@@ -26,3 +26,7 @@ LED control is done by calling :
 0 - Turn off
 1 - Turn on
 2 - Don't change
+
+For compiling use the following :
+
+	#gcc -Wall filename.c -o filename.out -lwiringPi
