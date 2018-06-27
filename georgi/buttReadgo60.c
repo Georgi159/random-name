@@ -65,6 +65,8 @@ int main(void)
 			fclose(fp);
 			change=0;
 		}
+		delay(10);
+		// system("sleep(0.01)");
 
 	}
 
