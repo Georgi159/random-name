@@ -1,20 +1,22 @@
 #include <wiringPi.h>
 #include "pinout.h"
 
-int main()
+int main(int argc, char const *argv[])
 {
-  wiringPiSetup();
-  pinMode(LED1,OUTPUT);
-  pinMode(LED2,OUTPUT);
-  pinMode(LED3,OUTPUT);
-  pinMode(LED4,OUTPUT);
+	wiringPiSetup();
+	pinMode(LED1,OUTPUT);
+	pinMode(LED2,OUTPUT);
+	pinMode(LED3,OUTPUT);
+	pinMode(LED4,OUTPUT);
 
-  while(1)
-  {
-    digitalWrite(LED1,digitalRead(BUT1));
-    digitalWrite(LED2,digitalRead(BUT2));
-    digitalWrite(LED3,digitalRead(BUT3));
-    digitalWrite(LED4,digitalRead(BUT4));
-  }
-  return 0;
+	for(int i = 0 , i<argc ; i++)
+	{
+		printf("%d -> %s\n", i, argv[i]);
+	}
+	// while(1)
+	{
+		// digitalWrite(LED1);
+	}
+
+	return 0;
 }
