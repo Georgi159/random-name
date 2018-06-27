@@ -1,7 +1,7 @@
 #!/bin/bash
 
 read_butonts () {
-sed $1'!d'  butonts | sed 's/LED[0-9]\s//'
+sed $1'!d'  butonts | sed 's/B[0-9]\s//'
 }
 
 
@@ -11,7 +11,7 @@ for i in $(cat menu.txt); do
     google_speech -l en $i
     
     if [[ $(read_butonts $pos) = "2" ]]; then
-        echo "you win"
+       ./reproduse.sh
     fi
 
     ((pos++))
