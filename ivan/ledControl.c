@@ -10,14 +10,10 @@ int main(int argc, char const *argv[])
 	pinMode(LED3,OUTPUT);
 	pinMode(LED4,OUTPUT);
 
-	for(int i = 0 ; i<argc ; i++)
-	{
-		printf("%d -> %s\n", i, argv[i]);
-	}
-	// while(1)
-	{
-		// digitalWrite(LED1);
-	}
+	printf("1 -> %s\n", argv[1]);
+	printf("2 -> %s\n", argv[2]);
+	printf("3 -> %s\n", argv[3]);
+	printf("4 -> %s\n", argv[4]);
 
 	return 0;
 }
