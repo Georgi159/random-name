@@ -10,7 +10,7 @@ for i in $(cat menu.txt); do
     echo $pos
     google_speech -l en $i
     
-    if [[ $(read_butonts $pos) = "2" ]]; then
+    if [[ $(read_butonts $pos) = "1" ]]; then
        ./reproduse.sh
     fi
 

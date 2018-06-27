@@ -38,6 +38,9 @@ for i in $(cat links.txt); do
 			linktoarticle=$(echo "cat /rss/channel/item/link/text()" | xmllint --nocdata --shell feed"$k".txt |  sed '1d;$d' |sed -e ':a;N;$!ba;s/-------\n/ /g'| sed $m'!d')
 				
 			wget -O article.txt $linktoarticle 
+			#sed '/<script type="text\/javascript"/,/<\/script>/d' $INF > $OUTF
+			#sed '/<script type="text\/javascript"/,/<\/script>/d' article.txt | sed '/<script type="text\/javascript"/,/<\/script>/d' | html2text 
+			html2text article.txt
 			google_speech $(cat article.txt)
 
 		fi
