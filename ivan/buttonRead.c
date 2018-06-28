@@ -1,6 +1,7 @@
 #include <wiringPi.h>
 #include <stdio.h>
 #include <string.h>
+#include <stdlib.h>
 #include "pinout.h"
 
 #define drBUT1 !digitalRead(BUT1)
@@ -46,7 +47,10 @@ int main()
 			fprintf(fp, poll_new);
 			// printf("Updated!\n");
 			fclose(fp);
+			system("sudo /home/pi/random-name/ivan/ledControl.out 1 1 1 1");
+			// system("sudo /home/pi/random-name/georgi/menu.sh");
 		}
+		delay(10);
 	}
 
 	// fclose(fp);
