@@ -1,5 +1,5 @@
 #!/bin/bash
-read_buttonts()
+read_buttons()
 {
 	sed $1'!d'  $(cat ../georgi/location_of_buton) | sed 's/B[0-9]\s//'
 }
