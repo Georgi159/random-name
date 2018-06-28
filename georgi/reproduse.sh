@@ -9,7 +9,8 @@ sed $1'!d'  $(cat location_of_buton) | sed 's/B[0-9]\s//'
 
 IFS=$'\n'
 k=0;
-for i in $(cat links.txt); do
+#for i in $(cat links.txt); do
+for i in $(sed $1'!d' /home/pi/random-name/vlado/rss_feeds.txt); do
 	((k++))
 	curl -s $i > feed"$k".txt;
 	cp feed"$k".txt test.txt
@@ -17,6 +18,7 @@ for i in $(cat links.txt); do
 	m=0;
 	for l in $(echo "cat /rss/channel/item/title/text()" | xmllint --nocdata --shell feed"$k".txt | sed '1d;$d' |sed -e ':a;N;$!ba;s/-------\n/ /g' ) #| sed -e 's/ /%/g' | sed -e 's/%-------/ /g');
 	do
+		pwd
 		((m++))
 
 		# for (( i = 0; i < m; i++ )); 
@@ -74,7 +76,7 @@ for i in $(cat links.txt); do
 		
 
 
-		if  [[ $(read_butonts 1) = "1" ]]; then
+		if  [[ $(read_butonts 1) = "4" ]]; then
 			linktoarticle=$(echo "cat /rss/channel/item/link/text()" | xmllint --nocdata --shell feed"$k".txt |  sed '1d;$d' |sed -e ':a;N;$!ba;s/-------\n/ /g'| sed $m'!d')
 				
 			wget -O article.txt $linktoarticle 

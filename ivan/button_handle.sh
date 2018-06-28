@@ -9,6 +9,7 @@ Str=$(wc -l menu.txt)
 max=$(expr substr "${Str}" 1 1)
 ((max++))
 echo $max
+touch /tmp/looping
 
 while [[ true ]]; do
 	but1=$(read_buttons 1 "/tmp/button_values.io")
@@ -17,6 +18,7 @@ while [[ true ]]; do
     	rm -f menu.wav
     	rm -f menu_out.wav
 		echo "killed" > /tmp/killed
+		chmod 777 /tmp/killed
     	# echo "Next"
     	((pos++))
     	if [[ $pos -gt $max ]]; then
@@ -30,6 +32,7 @@ while [[ true ]]; do
     	rm -f menu.wav
     	rm -f menu_out.wav
 		echo "killed" > /tmp/killed
+		chmod 777 /tmp/killed
     	# echo "Back"
     	((pos=1))
     fi
@@ -40,6 +43,7 @@ while [[ true ]]; do
     	rm -f menu.wav
     	rm -f menu_out.wav
 		echo "killed" > /tmp/killed
+		chmod 777 /tmp/killed
     	# echo "Prev"
     	((pos--))
     	if [[ $pos -lt 1 ]]; then
@@ -53,9 +57,12 @@ while [[ true ]]; do
     	rm -f menu.wav
     	rm -f menu_out.wav
 		echo "killed" > /tmp/killed
+		chmod 777 /tmp/killed
     	# echo "Enter"
     	# ((pos=pos))
-    	./vlado/select_feed.sh
+    	rm -f /tmp/looping
+    	/home/pi/random-name/vlado/select_feed.sh
+    	touch /tmp/looping
     fi
 
     # echo $pos
@@ -63,33 +70,3 @@ while [[ true ]]; do
 
     sleep 0.1
 done
-
-
-
-
-# while [[ true ]]; do
-# 	#./sleep_until_modified.sh $(cat location_of_buton)
-
-# 	inotifywait -q -m -e close /tmp/button_values.io | while  read path action ; do
-# 	echo $action
-# 		if [[ $action = "CLOSE_WRITE,CLOSE" ]]; then
-# 			break;
-# 		fi
-	
-# 	done
-
-# 	if [[ $(read_butonts 1) = "1" ]]; then
-       	
-#        	#killall google_speech
-# 		killall play sox
-# 		echo "kiled" >> /tmp/killed
-#     fi
-
-# 	#clear    
-# 	echo "buton read" >> logfile.log
-
-# 	#cat  $(cat location_of_buton)
-	
-
-	
-# done

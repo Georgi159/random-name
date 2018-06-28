@@ -2,338 +2,298 @@
 <?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
 <rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-        <title><![CDATA[BBC Sport - Sport]]></title>
-        <description><![CDATA[BBC Sport - Sport]]></description>
-        <link>http://www.bbc.co.uk/sport/</link>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
         <image>
-            <url>http://news.bbc.co.uk/sol/shared/img/sport_120x60.gif</url>
-            <title>BBC Sport - Sport</title>
-            <link>http://www.bbc.co.uk/sport/</link>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Jun 2018 02:31:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jun 2018 02:19:32 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
         <item>
-            <title><![CDATA['It is historic. It will create uproar' - highlights & reaction to Germany's shock exit]]></title>
-            <description><![CDATA[Germany boss Joachim Low admits his side deserved to go out of the World Cup after they crashed out in the group stage in "historic" fashion.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44636604</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44636604</guid>
-            <pubDate>Wed, 27 Jun 2018 17:56:56 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/55AD/production/_102233912_low_reuters.jpg"/>
+            <title><![CDATA[Anthony Kennedy: US Supreme Court judge to retire]]></title>
+            <description><![CDATA[The top US court's Anthony Kennedy, the second oldest justice at 81, says he will retire in July.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44634176</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44634176</guid>
+            <pubDate>Wed, 27 Jun 2018 22:45:02 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2C63/production/_102236311_epa.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Cup Catch-up: Bye bye Germany, merry Mexicans & Harry Kane's lookalike?]]></title>
-            <description><![CDATA[Watch all the best action and funnies from day 14 of the 2018 World Cup.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44638474</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44638474</guid>
-            <pubDate>Thu, 28 Jun 2018 00:41:30 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/A7D3/production/_102236924_p06c8kgw.jpg"/>
+            <title><![CDATA[Alexandria Ocasio-Cortez: Millennial beats veteran Democrat]]></title>
+            <description><![CDATA[Alexandria Ocasio-Cortez will stand for Congress after beating a New York party stalwart in a primary.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44625617</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44625617</guid>
+            <pubDate>Wed, 27 Jun 2018 17:02:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B98E/production/_102220574_mediaitem102220573.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Buttler sets record in dominant England win over Australia - highlights & report]]></title>
-            <description><![CDATA[Jos Buttler hits the fastest Twenty20 international half-century by an England batsman to propel the home side to a 28-run win over Australia.]]></description>
-            <link>http://www.bbc.co.uk/sport/cricket/44637454</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/44637454</guid>
-            <pubDate>Wed, 27 Jun 2018 20:56:21 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/6BA1/production/_102235572_josbuttler.jpg"/>
+            <title><![CDATA[Trump-Putin summit agreed by US and Russia in principle]]></title>
+            <description><![CDATA[Moscow and Washington will hold a long-delayed summit between Donald Trump and Vladimir Putin soon.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44637244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44637244</guid>
+            <pubDate>Wed, 27 Jun 2018 19:25:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/55B7/production/_102234912_mediaitem102232770.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Cup: Are England good enough to re-write history?]]></title>
-            <description><![CDATA[Defensive questions, dependency on Harry Kane and a test of temperament - chief football writer Phil McNulty assesses England's moment of truth.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44637064</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44637064</guid>
-            <pubDate>Wed, 27 Jun 2018 19:30:53 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/61DD/production/_102235052_greatenglandcelebration_reu.jpg"/>
+            <title><![CDATA[OPCW chemical watchdog gains power to assign blame]]></title>
+            <description><![CDATA[The world's chemical weapons body can now assign blame for attacks, despite Russian protests.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44634434</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44634434</guid>
+            <pubDate>Wed, 27 Jun 2018 16:29:44 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/6B79/production/_102231572_hi044247766.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Brazil cruise into last 16 by beating Serbia - highlights & report]]></title>
-            <description><![CDATA[Paulinho and Thiago Silva score as Brazil beat Serbia to book a place in the knockout stage, where they will face Mexico.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44439284</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44439284</guid>
-            <pubDate>Wed, 27 Jun 2018 20:56:15 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/58E1/production/_102235722_gettyimages-985476856.jpg"/>
+            <title><![CDATA[France's Macron brings back national service]]></title>
+            <description><![CDATA[All 16-year-olds will now have to spend at least a month in civic service.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44625625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44625625</guid>
+            <pubDate>Wed, 27 Jun 2018 17:19:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E3DD/production/_102233385_81d3caa4-4670-4833-be07-0f867201601e.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Cup 2018: Son Heung-min taps into empty net after Manuel Neuer error]]></title>
-            <description><![CDATA[Son Heung-min taps into an empty net to double South Korea's lead against Germany after goalkeeper Manuel Neuer is caught up field searching for a goal.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44635468</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44635468</guid>
-            <pubDate>Wed, 27 Jun 2018 16:18:23 GMT</pubDate>
-            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/0085/production/_102233100_neuertreatedstill_getty.jpg"/>
+            <title><![CDATA[Fox-Disney merger cleared, but sports networks must be sold]]></title>
+            <description><![CDATA[Competition regulator has given the deal the go-ahead, but regional sports networks must be sold.]]></description>
+            <link>https://www.bbc.co.uk/news/business-44633483</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-44633483</guid>
+            <pubDate>Wed, 27 Jun 2018 17:31:09 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1037/production/_99215140_gettyimages-892307138.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Konta loses to Wozniacki at Eastbourne - highlights & report]]></title>
-            <description><![CDATA[British number one Johanna Konta's final tournament before Wimbledon ends in defeat by top seed Caroline Wozniacki at Eastbourne.]]></description>
-            <link>http://www.bbc.co.uk/sport/tennis/44631582</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/44631582</guid>
-            <pubDate>Wed, 27 Jun 2018 16:23:05 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/16596/production/_102224519_konta_getty.jpg"/>
+            <title><![CDATA[Migrant rescue ship Lifeline docks in Malta after days at sea]]></title>
+            <description><![CDATA[The vessel Lifeline finally reaches port after days stranded at sea amid a political row.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44636556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44636556</guid>
+            <pubDate>Wed, 27 Jun 2018 18:19:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B953/production/_102234474_hi047776956.jpg"/>
         </item>
         <item>
-            <title><![CDATA[England v Australia: Alex Hales caught and bowled by Marcus Stoinis]]></title>
-            <description><![CDATA[Marcus Stoinis takes an amazing caught and bowled to dismiss Alex Hales for 49 in England's one-off Twenty20 against Australia at Edgbaston.]]></description>
-            <link>http://www.bbc.co.uk/sport/cricket/44637337</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/44637337</guid>
-            <pubDate>Wed, 27 Jun 2018 19:06:56 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/C385/production/_102235005_p06c7yvb.jpg"/>
+            <title><![CDATA[Joe Jackson: Patriarch of Jackson family dies aged 89]]></title>
+            <description><![CDATA[His death comes two days after the anniversary of Michael Jackson's death nine years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44633980</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44633980</guid>
+            <pubDate>Wed, 27 Jun 2018 20:24:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C154/production/_102229494_tv047650491.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Edmund beats Murray at Eastbourne - highlights & report]]></title>
-            <description><![CDATA[Kyle Edmund beats fellow Briton Andy Murray in straight sets to reach the quarter-finals at Eastbourne.]]></description>
-            <link>http://www.bbc.co.uk/sport/tennis/44634001</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/44634001</guid>
-            <pubDate>Wed, 27 Jun 2018 18:33:29 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/11F8D/production/_102231637_kyleedmund_reuters.jpg"/>
+            <title><![CDATA[Malaysia 1MDB: Seized tiaras, cash and Hermes bags 'worth $273m']]></title>
+            <description><![CDATA[Malaysian police took five weeks to tally up luxury goods found at properties linked to the ex-PM.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44625007</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44625007</guid>
+            <pubDate>Wed, 27 Jun 2018 09:40:07 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/79F6/production/_102222213_gettyimages-526201534.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Watch: Swiss keeper scores bizarre own goal from penalty]]></title>
-            <description><![CDATA[Yann Sommer scores a bizarre own goal from a Bryan Ruiz penalty in the last minute of Costa Rica's 2-2 draw with Switzerland in Group E.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44635472</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44635472</guid>
-            <pubDate>Wed, 27 Jun 2018 20:34:05 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/643F/production/_102236652_sfftbwcsuicrcpenaltyedit16x9.jpg"/>
+            <title><![CDATA[Poland makes U-turn on Holocaust law]]></title>
+            <description><![CDATA[There was an outcry when Poland made it illegal to say the country was complicit in Nazi war crimes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44627129</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44627129</guid>
+            <pubDate>Wed, 27 Jun 2018 14:00:39 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/522A/production/_100243012_gettyimages-915772588.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Romelu Lukaku: Belgium striker set to miss England game]]></title>
-            <description><![CDATA[Belgium striker Romelu Lukaku is is set to miss Thursday's World Cup game against England, which will decide who wins Group G.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44636552</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44636552</guid>
-            <pubDate>Wed, 27 Jun 2018 19:00:49 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/96F3/production/_102234683_lukaku.jpg"/>
+            <title><![CDATA[Air strikes knock out Syrian hospitals]]></title>
+            <description><![CDATA[Three facilities are put out of service as troops press on with an offensive in Deraa province.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-44628879</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-44628879</guid>
+            <pubDate>Wed, 27 Jun 2018 11:58:03 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/843C/production/_102225833_mediaitem102225832.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Holders Germany knocked out of 2018 World Cup - highlights & report]]></title>
-            <description><![CDATA[Defending champions Germany are eliminated from the World Cup following defeat by South Korea, in one of the biggest shocks in the competition's history.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44439270</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44439270</guid>
-            <pubDate>Wed, 27 Jun 2018 17:54:13 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/3D57/production/_102230751_mesut_ozil.jpg"/>
+            <title><![CDATA[Thailand cave rescue: Floodwaters hinder search for footballers]]></title>
+            <description><![CDATA[The group of young footballers and their coach are believed to be lost deep inside the cave system.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44625006</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44625006</guid>
+            <pubDate>Wed, 27 Jun 2018 13:14:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/7C6C/production/_102225813_36281506_2118563011698061_141999654689570816_n.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Dhawan and Rohit ease India to T20 victory over Ireland]]></title>
-            <description><![CDATA[A superb opening stand of 160 between Shikhar Dhawan and Rohit Sharma helps India to a 76-run T20 win over Ireland in Dublin.]]></description>
-            <link>http://www.bbc.co.uk/sport/cricket/44636397</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/44636397</guid>
-            <pubDate>Wed, 27 Jun 2018 19:23:45 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/161A5/production/_102233509_openers.jpg"/>
+            <title><![CDATA[Fans react to Germany's World Cup exit]]></title>
+            <description><![CDATA[Commiserations and celebrations after Germany fail to make it past the tournament's first stage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-44637954</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-44637954</guid>
+            <pubDate>Wed, 27 Jun 2018 20:50:57 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/61E7/production/_102236052_germanshi047776413.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Serena Williams 25th seed for Wimbledon despite being outside top 32 in rankings]]></title>
-            <description><![CDATA[Serena Williams is seeded 25th for this year's tournament, despite being outside the top 32 in the rankings.]]></description>
-            <link>http://www.bbc.co.uk/sport/tennis/44627489</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/44627489</guid>
-            <pubDate>Wed, 27 Jun 2018 10:08:10 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/2FB4/production/_102221221_gettyimages-968841476.jpg"/>
+            <title><![CDATA[Alexandria Ocasio-Cortez: The millennial candidate who defeated a political veteran]]></title>
+            <description><![CDATA[Alexandria Ocasio-Cortez is a Bronx native and political novice could become the youngest ever woman in Congress if elected in November.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44636625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44636625</guid>
+            <pubDate>Wed, 27 Jun 2018 18:57:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/154C1/production/_102233278_p06c7snk.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Sweden thump Mexico to reach last 16 - highlights & report]]></title>
-            <description><![CDATA[Sweden secure their place in the last 16 of the World Cup with a handsome win over Mexico, who also progress as Germany lose.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44439277</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44439277</guid>
-            <pubDate>Wed, 27 Jun 2018 17:02:08 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/164B1/production/_102231319_gettyimages-985249594.jpg"/>
+            <title><![CDATA[Thai cave search: Soldiers help rescue teams]]></title>
+            <description><![CDATA[Soldiers are helping search for 12 teenage boys and their football coach who disappeared in a cave network.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44635234</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44635234</guid>
+            <pubDate>Wed, 27 Jun 2018 16:05:44 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/15453/production/_102232178_p06c7jvc.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Cup 2018: Kim Young-gwon's VAR goal sends Germany towards exit]]></title>
-            <description><![CDATA[Watch as VAR is used to confirm a goal by South Korea's Kim Young-gwon which sends Germany towards a World Cup exit.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44630849</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44630849</guid>
-            <pubDate>Wed, 27 Jun 2018 16:06:50 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/D81B/production/_102232355_hi047773740.jpg"/>
+            <title><![CDATA[Drones to battle Colombian cocaine crop]]></title>
+            <description><![CDATA[Colombia has started using small drones to drench illicit coca in a powerful herbicide.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-44634433</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-44634433</guid>
+            <pubDate>Wed, 27 Jun 2018 15:00:30 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/7E93/production/_102230423_p06c7bq1.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Triple Paralympic champion Hynd confident of reclassification U-turn]]></title>
-            <description><![CDATA[Paralympic swimmer Ollie Hynd is confident the reclassification that left him "devastated" will be overturned.]]></description>
-            <link>http://www.bbc.co.uk/sport/disability-sport/44614280</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/disability-sport/44614280</guid>
-            <pubDate>Wed, 27 Jun 2018 20:54:54 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1624/production/_91286650_p04875y5.jpg"/>
+            <title><![CDATA[Zimbabwe President Mnangagwa says country is 'safe']]></title>
+            <description><![CDATA[Zimbabwe President Emmerson Mnangagwa vows to find "criminals" behind attack at his rally.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-44626298</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-44626298</guid>
+            <pubDate>Wed, 27 Jun 2018 06:57:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/7AB4/production/_102221413_p06c64zp.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Anthony Joshua is 'afraid' to fight Deontay Wilder says Tyson Fury]]></title>
-            <description><![CDATA[Anthony Joshua is "afraid" to fight Deontay Wilder, says fellow heavyweight Tyson Fury, but he thinks the bout will happen at some stage.]]></description>
-            <link>http://www.bbc.co.uk/sport/boxing/44633392</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/boxing/44633392</guid>
-            <pubDate>Wed, 27 Jun 2018 15:43:54 GMT</pubDate>
-            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/13AFE/production/_101983608_wilderjoshua.jpg"/>
+            <title><![CDATA[This four-year-old's art sells for thousands]]></title>
+            <description><![CDATA[Advait Kolarkar has become the youngest artist to exhibit at the ArtExpo fair in New York.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44605200</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44605200</guid>
+            <pubDate>Tue, 26 Jun 2018 19:48:46 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1234B/production/_102217547_p06c57f0.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Racist tweets no longer a surprise, says Wimbledon debutant Clarke]]></title>
-            <description><![CDATA[Britain's Jay Clarke, who will make his Grand Slam debut next week, says he is now surprised when he does not receive racial abuse on Twitter after a defeat.]]></description>
-            <link>http://www.bbc.co.uk/sport/tennis/44625672</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/44625672</guid>
-            <pubDate>Wed, 27 Jun 2018 09:39:49 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/16136/production/_102222409_clarke_reuters.jpg"/>
+            <title><![CDATA['We're about to get deported']]></title>
+            <description><![CDATA[Teenage brothers Areeb and Somer Hameed are facing deportation back to Pakistan.]]></description>
+            <link>https://www.bbc.co.uk/news/uk-scotland-44623824</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/uk-scotland-44623824</guid>
+            <pubDate>Wed, 27 Jun 2018 03:17:40 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B145/production/_102218354_p06c5xw4.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Personalise your BBC Sport app and sign up for notifications]]></title>
-            <description><![CDATA[With latest scores and headlines sent straight to your device, personalisation and much more, ensure you have a great sporting life with BBC Sport.]]></description>
-            <link>http://www.bbc.co.uk/sport/35176037</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/35176037</guid>
-            <pubDate>Fri, 08 Jun 2018 11:49:09 GMT</pubDate>
-            <media:thumbnail width="1600" height="900" url="http://c.files.bbci.co.uk/7E07/production/_101936223_wc-app-notification-promo-16x9-2.png"/>
+            <title><![CDATA[World Cup 2018: Mexico fans celebrate South Korean 'brothers']]></title>
+            <description><![CDATA[South Korea's 2-0 defeat over Germany carries Mexico through to the World Cup knockout stage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-44638284</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-44638284</guid>
+            <pubDate>Thu, 28 Jun 2018 02:19:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CA97/production/_102236815_ab20d41f-93f5-48d2-9fd7-67ef32329510.jpg"/>
         </item>
         <item>
-            <title><![CDATA[England v Australia: Jos Buttler stars as England win T20 international - best shots]]></title>
-            <description><![CDATA[Watch the best shots as England make their second-highest Twenty20 total in a 28-run win over Australia at Edgbaston.]]></description>
-            <link>http://www.bbc.co.uk/sport/cricket/44638234</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/44638234</guid>
-            <pubDate>Wed, 27 Jun 2018 21:57:27 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/13BD5/production/_102235808_p06c85vx.jpg"/>
+            <title><![CDATA[Flamingo that escaped a zoo in 2005 spotted in Texas]]></title>
+            <description><![CDATA[The bird, tagged as number 492, is seen near Lavaca Bay, Texas, after fleeing a Kansas zoo in 2005.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44633602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44633602</guid>
+            <pubDate>Wed, 27 Jun 2018 19:51:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1043F/production/_102232666_046878430.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Cup 2018: Serbia 0-2 Brazil highlights]]></title>
-            <description><![CDATA[Watch highlights as goals from Paulinho and Thiago Silva send Brazil through to the last 16 as Group E winners at the 2018 World Cup, where they will face Mexico.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44631041</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44631041</guid>
-            <pubDate>Wed, 27 Jun 2018 20:04:36 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/10011/production/_102235556_p06c81r9.jpg"/>
+            <title><![CDATA[Chinese park grants free entry to heavier women]]></title>
+            <description><![CDATA[A Chinese park offered free entry to women who were as heavy as a Tang Dynasty concubine.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44578409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44578409</guid>
+            <pubDate>Fri, 22 Jun 2018 12:01:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9DD6/production/_102160404_btime.png"/>
         </item>
         <item>
-            <title><![CDATA[World Cup 2018: Paulinho lob gives Brazil lead against Serbia]]></title>
-            <description><![CDATA[Paulinho scores a neat lob over Serbia goalkeeper Vladimir Stojkovic to give Brazil the lead in their final Group E fixture at the 2018 World Cup.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44635600</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44635600</guid>
-            <pubDate>Wed, 27 Jun 2018 19:53:34 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/00FD/production/_102235200_p06c7zfh.jpg"/>
+            <title><![CDATA[Japanese firm makes suits for blue collar workers]]></title>
+            <description><![CDATA[A Tokyo firm has created a line of business attire that's best suited for the nation's blue-collar workers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44535537</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44535537</guid>
+            <pubDate>Tue, 19 Jun 2018 11:23:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AE2E/production/_102109544_thesuit.png"/>
         </item>
         <item>
-            <title><![CDATA[World Cup 2018: Switzerland 2-2 Costa Rica highlights]]></title>
-            <description><![CDATA[Watch highlights as Switzerland set up a World Cup last-16 tie with Sweden after a draw with Costa Rica that featured a bizarre late penalty.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44631044</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44631044</guid>
-            <pubDate>Wed, 27 Jun 2018 20:26:02 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/10E85/production/_102235296_p06c82xb.jpg"/>
+            <title><![CDATA[Finland's capital gives away its old trams]]></title>
+            <description><![CDATA[The city wants rid of its antiquated trams, but getting hold of one comes with strings attached.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44520212</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44520212</guid>
+            <pubDate>Mon, 18 Jun 2018 10:50:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AF81/production/_102092944_0002.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Cup 2018: South Korea 2-0 Germany highlights]]></title>
-            <description><![CDATA[Watch highlights as defending champions Germany are eliminated from the 2018 World Cup after losing to South Korea in Kazan.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44630841</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44630841</guid>
-            <pubDate>Wed, 27 Jun 2018 16:34:25 GMT</pubDate>
-            <media:thumbnail width="1920" height="1080" url="http://c.files.bbci.co.uk/4A59/production/_102233091_germanytreatedgetty.jpg"/>
+            <title><![CDATA[Is India really the most dangerous country for women?]]></title>
+            <description><![CDATA[Why does a new survey rank India less safe for women than countries like Saudi Arabia and Afghanistan?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-42436817</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-42436817</guid>
+            <pubDate>Thu, 28 Jun 2018 00:14:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B196/production/_102226454_gettyimages-460546014.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Cup 2018: Mexico 0-3 Sweden highlights]]></title>
-            <description><![CDATA[Watch highlights as goals from Ludwig Augustinsson and Andreas Granqvist, plus an own goal from Mexico's Edson Alvarez help Sweden to comfortably beat Mexico and send them through to the last 16 as winners of Group F.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44630843</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44630843</guid>
-            <pubDate>Wed, 27 Jun 2018 16:37:03 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/1745B/production/_102232359_p06c7lyk.jpg"/>
+            <title><![CDATA[Brexit and the EU Summit: The view from five capitals]]></title>
+            <description><![CDATA[Assessing the mood in Berlin, Paris, Rome, Madrid and Budapest ahead of this week's get-together.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44603650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44603650</guid>
+            <pubDate>Thu, 28 Jun 2018 00:11:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3DE9/production/_102194851_gettyimages-961132432.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Johanna Konta beaten by Caroline Wozniacki at Eastbourne - five best shots]]></title>
-            <description><![CDATA[Watch five of the best shots as Denmark's Caroline Wozniacki beats Britain's Johanna Konta in three sets to make it through to the quarter-finals at Eastbourne.]]></description>
-            <link>http://www.bbc.co.uk/sport/tennis/44636784</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/44636784</guid>
-            <pubDate>Wed, 27 Jun 2018 17:37:54 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/89AB/production/_102234253_p06c7rpq.jpg"/>
+            <title><![CDATA[How to survive if you're trapped in a cave]]></title>
+            <description><![CDATA[With 12 Thai teenagers trapped underground with their coach, we ask how to survive in a cave.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44633601</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44633601</guid>
+            <pubDate>Wed, 27 Jun 2018 17:18:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/486F/production/_102234581_047770840-1.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Andy Murray beaten by Kyle Edmund in second round at Eastbourne]]></title>
-            <description><![CDATA[Andy Murray is beaten in straight sets by British number one Kyle Edmund in the second round of the Nature Valley International at Eastbourne.]]></description>
-            <link>http://www.bbc.co.uk/sport/tennis/44636788</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/44636788</guid>
-            <pubDate>Wed, 27 Jun 2018 19:46:23 GMT</pubDate>
-            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/14CFB/production/_102234258_p06c80l7.jpg"/>
+            <title><![CDATA[Six attempts to make toys more inclusive]]></title>
+            <description><![CDATA[Differently-sized, disabled or non-white dolls were non-existent 20 years ago. Not any more.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44637249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44637249</guid>
+            <pubDate>Wed, 27 Jun 2018 23:01:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5F2B/production/_102236342_gettyimages-507223582.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Cup 2018: Is it easier if England finish second in group?]]></title>
-            <description><![CDATA[England face Belgium on Thursday to determine who finishes top of Group G - but what difference does it make?]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44620166</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44620166</guid>
-            <pubDate>Wed, 27 Jun 2018 21:32:53 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/BB51/production/_102235974_englandfans.jpg"/>
+            <title><![CDATA[Marree Man: The enduring mystery of a giant outback figure]]></title>
+            <description><![CDATA[Etched into the outback 20 years ago, the vast figure remains a subject of fascination.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-44597730</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-44597730</guid>
+            <pubDate>Tue, 26 Jun 2018 15:24:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/24CC/production/_102202490_mareeman.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Germany's World Cup 2018 downfall made everyone else pretty happy...]]></title>
-            <description><![CDATA[The world of social media mocks Germany, who are knocked out of the World Cup in shock fashion.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44632592</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44632592</guid>
-            <pubDate>Wed, 27 Jun 2018 18:08:43 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/BEC1/production/_102233884_mediaitem102234362.jpg"/>
+            <title><![CDATA[Merkel's Bavarian ally threatens mutiny on migrants]]></title>
+            <description><![CDATA[The leader of the German chancellor's sister party could derail her government on migrants.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44614735</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44614735</guid>
+            <pubDate>Tue, 26 Jun 2018 23:13:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3A71/production/_102216941_gettyimages-979351126.jpg"/>
         </item>
         <item>
-            <title><![CDATA[World Cup 2018: Who needs what to qualify in the final round of group games?]]></title>
-            <description><![CDATA[What results do teams need from the final World Cup group games to ensure qualification to the last 16?]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44587232</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44587232</guid>
-            <pubDate>Wed, 27 Jun 2018 19:58:15 GMT</pubDate>
-            <media:thumbnail width="640" height="360" url="http://c.files.bbci.co.uk/5661/production/_102231122_hi047744600.jpg"/>
+            <title><![CDATA[Letter from Africa: Snapping at the heels of Zimbabwe's 'crocodile']]></title>
+            <description><![CDATA[For the first time in decades, Robert Mugabe is not on the ballot - and more than 20 people now want to fill his shoes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-44614024</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-44614024</guid>
+            <pubDate>Tue, 26 Jun 2018 23:46:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/FB69/production/_102216346_mediaitem102216345.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Three runs to win, seven wickets left - 'we ought to have got that']]></title>
-            <description><![CDATA[High Wycombe lose by one run after collapsing from 186-3 to 187 all out against Peterborough Town in National Club Championship.]]></description>
-            <link>http://www.bbc.co.uk/sport/cricket/44613032</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/cricket/44613032</guid>
-            <pubDate>Tue, 26 Jun 2018 12:34:26 GMT</pubDate>
-            <media:thumbnail width="624" height="351" url="http://c.files.bbci.co.uk/3502/production/_102207531_cricket_pboro.jpg"/>
+            <title><![CDATA[Can India become an AI hub for the developing world?]]></title>
+            <description><![CDATA[India's vast engineering workforce and burgeoning start-up scene are among the advantages it enjoys.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-44614802</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-44614802</guid>
+            <pubDate>Wed, 27 Jun 2018 07:50:47 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/67DE/production/_102209562_gettyimages-811546462.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Wimbledon 2018: Is Juan Martin del Potro the man to challenge Roger Federer?]]></title>
-            <description><![CDATA[Argentine tennis great Juan Martin del Potro on recovering from injuries, his faith and stopping Roger Federer at Wimbledon.]]></description>
-            <link>http://www.bbc.co.uk/sport/tennis/44616941</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/44616941</guid>
-            <pubDate>Tue, 26 Jun 2018 15:27:12 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1766/production/_102209950_gettyimages-955364628.jpg"/>
+            <title><![CDATA[Virtual reality 'is not just for gamers']]></title>
+            <description><![CDATA[Firms in Hong Kong are using virtual and augmented reality technology to shape client experience.]]></description>
+            <link>https://www.bbc.co.uk/news/business-44602310</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-44602310</guid>
+            <pubDate>Tue, 26 Jun 2018 23:07:11 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/9483/production/_102191083_p06c1j9b.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Gareth Southgate: Should England manager make changes?]]></title>
-            <description><![CDATA[Should Gareth Southgate make changes to the starting XI against Belgium? Or is momentum more important?]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44606378</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44606378</guid>
-            <pubDate>Tue, 26 Jun 2018 14:30:19 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/CEB9/production/_102212925_kanepa.jpg"/>
+            <title><![CDATA[Ronald dela Rosa: 'The Rock' behind Duterte's drugs war]]></title>
+            <description><![CDATA[Ronald dela Rosa, who heads up the bloody war on drugs in the Philippines, is now taking on prisons.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44598858</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44598858</guid>
+            <pubDate>Tue, 26 Jun 2018 23:38:43 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/105CC/production/_102202076_gettyimages-633013264.jpg"/>
         </item>
         <item>
-            <title><![CDATA[French GP: Jolyon Palmer column - Unlucky Bottas should have been a title contender]]></title>
-            <description><![CDATA[In his latest BBC Sport column, F1 driver Jolyon Palmer says Valtteri Bottas is unlucky to not be a title contender.]]></description>
-            <link>http://www.bbc.co.uk/sport/formula1/44597196</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/formula1/44597196</guid>
-            <pubDate>Mon, 25 Jun 2018 21:31:55 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/9A22/production/_102185493_valtteri_bottas_afp.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Sport on the BBC: Best of this week's TV & radio coverage]]></title>
-            <description><![CDATA[This week's sport on the BBC includes England World Cup group games and England's T20 against Australia.]]></description>
-            <link>http://www.bbc.co.uk/sport/43634915</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/43634915</guid>
-            <pubDate>Wed, 27 Jun 2018 12:10:39 GMT</pubDate>
-            <media:thumbnail width="1600" height="900" url="http://c.files.bbci.co.uk/1B4F/production/_101019960_whats_on_promo.png"/>
-        </item>
-        <item>
-            <title><![CDATA[World Cup 2018: Russian city Samara, football and the space race]]></title>
-            <description><![CDATA[World Cup host city Samara was the centre of the Soviet space race, but as that industry declined so did the stadiums of its football teams, discovers Patrick Jennings.]]></description>
-            <link>http://www.bbc.co.uk/sport/football/44606211</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/football/44606211</guid>
-            <pubDate>Tue, 26 Jun 2018 05:55:09 GMT</pubDate>
-            <media:thumbnail width="885" height="498" url="http://c.files.bbci.co.uk/17444/production/_102200359_samarafootball.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['I'm a little surprised at how well I've played since returning']]></title>
-            <description><![CDATA[In his BBC Sport column, Andy Murray talks about his form in the early stages of his comeback, and Amelie Mauresmo's appointment as France's Davis Cup captain.]]></description>
-            <link>http://www.bbc.co.uk/sport/tennis/44609051</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/tennis/44609051</guid>
-            <pubDate>Tue, 26 Jun 2018 09:26:03 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/583D/production/_102098522_andymurray-bigger.png"/>
-        </item>
-        <item>
-            <title><![CDATA[Jones must change his ways if England want to win World Cup - Guscott]]></title>
-            <description><![CDATA[Eddie Jones will have to change his ways if England are to have a chance of winning the World Cup next year, says Jeremy Guscott.]]></description>
-            <link>http://www.bbc.co.uk/sport/rugby-union/44590420</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/rugby-union/44590420</guid>
-            <pubDate>Sun, 24 Jun 2018 18:51:29 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/B5F1/production/_102177564_maytry_afp.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA['Small mistakes having huge cost' - Hamilton benefitting from Vettel marginal errors]]></title>
-            <description><![CDATA[Lewis Hamilton may have cruised to victory in France, but it's closer than ever - which is why Sebastian Vettel's mistakes cost so much.]]></description>
-            <link>http://www.bbc.co.uk/sport/formula1/44595089</link>
-            <guid isPermaLink="true">http://www.bbc.co.uk/sport/formula1/44595089</guid>
-            <pubDate>Sun, 24 Jun 2018 21:15:07 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/B6BA/production/_102187764_lewis_hamilton_getty.jpg"/>
+            <title><![CDATA[My best friend’s killer got away - until I made police try again]]></title>
+            <description><![CDATA[Angela Samota was brutally killed in 1984. The murderer was never found - until, years later, Angela's college roommate got involved.]]></description>
+            <link>https://www.bbc.co.uk/news/stories-44470377</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/stories-44470377</guid>
+            <pubDate>Mon, 25 Jun 2018 23:31:36 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/8FAB/production/_102197763_ecd349af-a31a-4635-8259-9eba8d8f4cb3.jpg"/>
         </item>
     </channel>
 </rss>

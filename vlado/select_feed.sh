@@ -43,6 +43,7 @@ wait_for_button()
 			echo "killed" > /tmp/killed
 			echo "Enter"
 			let but_pressed=1
+			../georgi/reproduse.sh $pos
 		fi
 
 		sleep 0.1
