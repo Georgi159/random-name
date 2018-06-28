@@ -61,7 +61,8 @@ for i in $(cat links.txt); do
 			play DES.wav
 		fi
 
-			
+		#cat world-us-canada-44634176 | tr -d "\n\r" | grep '<h1.*' -o | html2text  | strings 
+
 			
 			#google_speech -l en $sdre
 		# fi
