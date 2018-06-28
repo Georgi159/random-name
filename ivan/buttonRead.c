@@ -29,30 +29,20 @@ int main()
 	char poll_new[30] = { 0 };
 	char poll_old[30] = { 0 };
 
-	// printf(OUTPUT_STRING, drBUT1, drBUT2, drBUT3, drBUT4);
-
 	FILE *fp;
-	// fp = fopen(OUTPUT_FILE, "w");
-	// fprintf(fp, OUTPUT_STRING, drBUT1, drBUT2, drBUT3, drBUT4);
 
 	while(LOOP)
 	{
-		// rewind(fp);
 		sprintf(poll_new, OUTPUT_STRING, drBUT1, drBUT2, drBUT3, drBUT4);
-		// printf("%s", poll_new);
 		if(strcmp(poll_new, poll_old) != 0)
 		{
 			fp = fopen(OUTPUT_FILE, "w");
 			strcpy(poll_old, poll_new);
 			fprintf(fp, poll_new);
-			// printf("Updated!\n");
 			fclose(fp);
-			system("sudo /home/pi/random-name/ivan/ledControl.out 1 1 1 1");
-			// system("sudo /home/pi/random-name/georgi/menu.sh");
 		}
 		delay(10);
 	}
 
-	// fclose(fp);
 	return 0;
 }

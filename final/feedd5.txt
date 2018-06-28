@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet title="XSL_formatting" type="text/xsl" href="/shared/bsp/xsl/rss/nolsol.xsl"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+    <channel>
+        <title><![CDATA[BBC News - World]]></title>
+        <description><![CDATA[BBC News - World]]></description>
+        <link>https://www.bbc.co.uk/news/</link>
+        <image>
+            <url>https://news.bbcimg.co.uk/nol/shared/img/bbc_news_120x60.gif</url>
+            <title>BBC News - World</title>
+            <link>https://www.bbc.co.uk/news/</link>
+        </image>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Thu, 28 Jun 2018 06:03:29 GMT</lastBuildDate>
+        <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
+        <language><![CDATA[en-gb]]></language>
+        <ttl>15</ttl>
+        <item>
+            <title><![CDATA[Trump begins Supreme Court search to replace Anthony Kennedy]]></title>
+            <description><![CDATA[Justice Anthony Kennedy's retirement allows the president to shift the top court further to the right.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44638092</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44638092</guid>
+            <pubDate>Thu, 28 Jun 2018 04:21:27 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/180A9/production/_102237489_gettyimages-666932190.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Thai cave: Rising water stops divers searching for missing boys]]></title>
+            <description><![CDATA[Rescuers are trying to find new ways into the flooded cave where a group of young Thais are trapped.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44639087</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44639087</guid>
+            <pubDate>Thu, 28 Jun 2018 05:03:03 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/11029/production/_102237696_e2646cc8-0684-4958-a4bc-77fb94504244.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[China won't give up 'one inch' of territory says President Xi to Mattis]]></title>
+            <description><![CDATA[Xi Jinping told the visiting US defence secretary he would make no concessions on the South China Sea.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-china-44638817</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-china-44638817</guid>
+            <pubDate>Thu, 28 Jun 2018 03:14:44 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/CCF9/production/_102237425_gettyimages-987185258.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[France's Macron brings back national service]]></title>
+            <description><![CDATA[All 16-year-olds will now have to spend at least a month in civic service.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44625625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44625625</guid>
+            <pubDate>Wed, 27 Jun 2018 17:19:52 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/E3DD/production/_102233385_81d3caa4-4670-4833-be07-0f867201601e.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Trump-Putin summit agreed by US and Russia in principle]]></title>
+            <description><![CDATA[Moscow and Washington will hold a long-delayed summit between Donald Trump and Vladimir Putin soon.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44637244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44637244</guid>
+            <pubDate>Wed, 27 Jun 2018 19:25:00 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/55B7/production/_102234912_mediaitem102232770.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[XXXTentacion fans queue to pay respects at Florida service]]></title>
+            <description><![CDATA[Thousands lined up for hours to see the late rapper laid out in a casket at a service in Florida.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44638859</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44638859</guid>
+            <pubDate>Thu, 28 Jun 2018 05:04:33 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/2ADD/production/_102237901_hi047785633.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Google Home speakers complain of 'glitch']]></title>
+            <description><![CDATA[The search firm says its smart speakers and Chromecast TV dongles are experiencing technical issues.]]></description>
+            <link>https://www.bbc.co.uk/news/technology-44628406</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/technology-44628406</guid>
+            <pubDate>Wed, 27 Jun 2018 18:14:17 GMT</pubDate>
+            <media:thumbnail width="1275" height="717" url="http://c.files.bbci.co.uk/1601F/production/_102234109_mediaitem102234108.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fox-Disney merger cleared, but sports networks must be sold]]></title>
+            <description><![CDATA[Competition regulator has given the deal the go-ahead, but regional sports networks must be sold.]]></description>
+            <link>https://www.bbc.co.uk/news/business-44633483</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/business-44633483</guid>
+            <pubDate>Wed, 27 Jun 2018 17:31:09 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/1037/production/_99215140_gettyimages-892307138.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Migrant rescue ship Lifeline docks in Malta after days at sea]]></title>
+            <description><![CDATA[The vessel Lifeline finally reaches port after days stranded at sea amid a political row.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44636556</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44636556</guid>
+            <pubDate>Wed, 27 Jun 2018 18:19:35 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B953/production/_102234474_hi047776956.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Joe Jackson: Patriarch of Jackson family dies aged 89]]></title>
+            <description><![CDATA[His death comes two days after the anniversary of Michael Jackson's death nine years ago.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44633980</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44633980</guid>
+            <pubDate>Wed, 27 Jun 2018 20:24:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C154/production/_102229494_tv047650491.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Air strikes knock out Syrian hospitals]]></title>
+            <description><![CDATA[Three facilities are put out of service as troops press on with an offensive in Deraa province.]]></description>
+            <link>https://www.bbc.co.uk/news/world-middle-east-44628879</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-44628879</guid>
+            <pubDate>Wed, 27 Jun 2018 11:58:03 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/843C/production/_102225833_mediaitem102225832.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Mexico election: Who is Andres Manuel Lopez Obrador or 'Amlo'?]]></title>
+            <description><![CDATA[Here are five things you need to know about Andres Manuel Lopez Obrador or "Amlo".]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-44634373</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-44634373</guid>
+            <pubDate>Thu, 28 Jun 2018 00:08:26 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/10E3F/production/_102238196_p06c81c9.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fingerprint tech could help catch pangolin poachers]]></title>
+            <description><![CDATA[British scientists discover a way of taking human fingerprints off seized pangolin scales.]]></description>
+            <link>https://www.bbc.co.uk/news/world-44634596</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-44634596</guid>
+            <pubDate>Thu, 28 Jun 2018 01:17:41 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/96CB/production/_102230683_p06c7n6x.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[The Aquarius migrant rescue ship is empty. Why?]]></title>
+            <description><![CDATA[The ship is caught in the middle of a diplomatic row, so it's been unable to do rescue operations.]]></description>
+            <link>https://www.bbc.co.uk/news/world-44638305</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-44638305</guid>
+            <pubDate>Thu, 28 Jun 2018 02:55:08 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D4C9/production/_102237445_p06c8mzf.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Fans react to Germany's World Cup exit]]></title>
+            <description><![CDATA[Commiserations and celebrations after Germany fail to make it past the tournament's first stage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-44637954</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-44637954</guid>
+            <pubDate>Wed, 27 Jun 2018 20:50:57 GMT</pubDate>
+            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/61E7/production/_102236052_germanshi047776413.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kareem Waris Olamilekan: A young Nigerian artist with grand plans]]></title>
+            <description><![CDATA[Nigerian artist Kareem Waris Olamilekan is inspired by Arinze and Michelangelo.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-44637256</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-44637256</guid>
+            <pubDate>Thu, 28 Jun 2018 01:14:10 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/E5DB/production/_102234885_p06c7vjp.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Prince William honours his great grandmother in Jerusalem]]></title>
+            <description><![CDATA[Who was Prince William's great grandmother and how did she help Greek Jews during the Second World War?]]></description>
+            <link>https://www.bbc.co.uk/news/world-44634594</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-44634594</guid>
+            <pubDate>Thu, 28 Jun 2018 01:21:05 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/48AB/production/_102230681_p06c7ccb.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Alexandria Ocasio-Cortez: The millennial candidate who defeated a political veteran]]></title>
+            <description><![CDATA[Alexandria Ocasio-Cortez is a Bronx native and political novice could become the youngest ever woman in Congress if elected in November.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44636625</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44636625</guid>
+            <pubDate>Wed, 27 Jun 2018 18:57:07 GMT</pubDate>
+            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/154C1/production/_102233278_p06c7snk.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[World Cup 2018: Mexico fans celebrate South Korean 'brothers']]></title>
+            <description><![CDATA[South Korea's 2-0 defeat over Germany carries Mexico through to the World Cup knockout stage.]]></description>
+            <link>https://www.bbc.co.uk/news/world-latin-america-44638284</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-latin-america-44638284</guid>
+            <pubDate>Thu, 28 Jun 2018 02:19:09 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1428D/production/_102237528_ab20d41f-93f5-48d2-9fd7-67ef32329510.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Flamingo that escaped a zoo in 2005 spotted in Texas]]></title>
+            <description><![CDATA[The bird, tagged as number 492, is seen near Lavaca Bay, Texas, after fleeing a Kansas zoo in 2005.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44633602</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44633602</guid>
+            <pubDate>Wed, 27 Jun 2018 19:51:25 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/1043F/production/_102232666_046878430.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Chinese park grants free entry to heavier women]]></title>
+            <description><![CDATA[A Chinese park offered free entry to women who were as heavy as a Tang Dynasty concubine.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44578409</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44578409</guid>
+            <pubDate>Fri, 22 Jun 2018 12:01:46 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/9DD6/production/_102160404_btime.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Japanese firm makes suits for blue collar workers]]></title>
+            <description><![CDATA[A Tokyo firm has created a line of business attire that's best suited for the nation's blue-collar workers.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44535537</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44535537</guid>
+            <pubDate>Tue, 19 Jun 2018 11:23:54 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AE2E/production/_102109544_thesuit.png"/>
+        </item>
+        <item>
+            <title><![CDATA[Finland's capital gives away its old trams]]></title>
+            <description><![CDATA[The city wants rid of its antiquated trams, but getting hold of one comes with strings attached.]]></description>
+            <link>https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44520212</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/blogs-news-from-elsewhere-44520212</guid>
+            <pubDate>Mon, 18 Jun 2018 10:50:37 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/AF81/production/_102092944_0002.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Is India really the most dangerous country for women?]]></title>
+            <description><![CDATA[Why does a new survey rank India less safe for women than countries like Saudi Arabia and Afghanistan?]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-india-42436817</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-india-42436817</guid>
+            <pubDate>Thu, 28 Jun 2018 00:14:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/B196/production/_102226454_gettyimages-460546014.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Brexit and the EU Summit: The view from five capitals]]></title>
+            <description><![CDATA[Assessing the mood in Berlin, Paris, Rome, Madrid and Budapest ahead of this week's get-together.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44603650</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44603650</guid>
+            <pubDate>Thu, 28 Jun 2018 00:11:04 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3DE9/production/_102194851_gettyimages-961132432.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[How to survive if you're trapped in a cave]]></title>
+            <description><![CDATA[With 12 Thai teenagers trapped underground with their coach, we ask how to survive in a cave.]]></description>
+            <link>https://www.bbc.co.uk/news/world-asia-44633601</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-asia-44633601</guid>
+            <pubDate>Wed, 27 Jun 2018 17:18:57 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/486F/production/_102234581_047770840-1.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Six attempts to make toys more inclusive]]></title>
+            <description><![CDATA[Differently-sized, disabled or non-white dolls were non-existent 20 years ago. Not any more.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44637249</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44637249</guid>
+            <pubDate>Wed, 27 Jun 2018 23:01:06 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/5F2B/production/_102236342_gettyimages-507223582.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Marree Man: The enduring mystery of a giant outback figure]]></title>
+            <description><![CDATA[Etched into the outback 20 years ago, the vast figure remains a subject of fascination.]]></description>
+            <link>https://www.bbc.co.uk/news/world-australia-44597730</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-australia-44597730</guid>
+            <pubDate>Tue, 26 Jun 2018 15:24:29 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/24CC/production/_102202490_mareeman.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Merkel's Bavarian ally threatens mutiny on migrants]]></title>
+            <description><![CDATA[The leader of the German chancellor's sister party could derail her government on migrants.]]></description>
+            <link>https://www.bbc.co.uk/news/world-europe-44614735</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-europe-44614735</guid>
+            <pubDate>Tue, 26 Jun 2018 23:13:24 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/3A71/production/_102216941_gettyimages-979351126.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Letter from Africa: Snapping at the heels of Zimbabwe's 'crocodile']]></title>
+            <description><![CDATA[For the first time in decades, Robert Mugabe is not on the ballot - and more than 20 people now want to fill his shoes.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-44614024</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-44614024</guid>
+            <pubDate>Tue, 26 Jun 2018 23:46:55 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/FB69/production/_102216346_mediaitem102216345.jpg"/>
+        </item>
+    </channel>
+</rss>

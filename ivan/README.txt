@@ -21,7 +21,7 @@ LED control is done by calling :
 
 	#./ledControl.out 0 1 0 2
 
-0 1 0 1 --> state of the LEDs
+0 1 0 1 --> state of the LEDs in order : green yellow red blue
 
 0 - Turn off
 1 - Turn on

@@ -3,23 +3,15 @@
 #include <string.h>
 #include "pinout.h"
 
-// enum led_enum{1=LED1, 2=LED1, 3=LED1, 4=LED1};
-
 #define ERROR_STRING "OPAAA nekoi podade skapana stojnost !!!\n"
 
 int main(int argc, char const *argv[])
 {
-	// enum led_enum leds;
 	wiringPiSetup();
 	pinMode(LED1,OUTPUT);
 	pinMode(LED2,OUTPUT);
 	pinMode(LED3,OUTPUT);
 	pinMode(LED4,OUTPUT);
-
-	// printf("1 -> %s\n", argv[1]);
-	// printf("2 -> %s\n", argv[2]);
-	// printf("3 -> %s\n", argv[3]);
-	// printf("4 -> %s\n", argv[4]);
 
 	if (strcmp(argv[1], "0") == 0) 
 	{
