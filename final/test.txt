@@ -34,7 +34,7 @@
 <generator>RSS for Node
 </generator>
         
-<lastBuildDate>Thu, 28 Jun 2018 06:03:29 GMT
+<lastBuildDate>Thu, 28 Jun 2018 06:30:12 GMT
 </lastBuildDate>
         
 <copyright>
@@ -64,7 +64,7 @@
 <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44638092
 </guid>
             
-<pubDate>Thu, 28 Jun 2018 04:21:27 GMT
+<pubDate>Thu, 28 Jun 2018 06:28:53 GMT
 </pubDate>
             
 <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/180A9/production/_102237489_gettyimages-666932190.jpg"/>
@@ -366,7 +366,7 @@
 <pubDate>Thu, 28 Jun 2018 02:55:08 GMT
 </pubDate>
             
-<media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D4C9/production/_102237445_p06c8mzf.jpg"/>
+<media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/011B/production/_102238200_mediaitem102238199.jpg"/>
         
 </item>
         

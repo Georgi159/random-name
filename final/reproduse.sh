@@ -44,7 +44,8 @@ for i in $(sed $1'!d' /home/pi/random-name/final/rss_feeds.txt); do
 		sox testTITLE.wav TITLE.wav pitch -20 gain -6.2 rate 48000 equalizer 60 0.9 -4.8 equalizer 310 0.9 +4 equalizer 600 0.9 +5.6 equalizer 1000 0.9 +5.6 equalizer 3000 0.9 +5.6 equalizer 6000 0.9 +4 equalizer 12000 0.9 +2.4 equalizer 14000 0.9 +2.4 equalizer 16000 0.9 +2.4 bass -2
 		echo $l
 
-		play TITLE.wav &
+		play TITLE.wav 
+
 
 
 		if [[ $(sed $m'!d'  result.txt) = "1" ]]; then

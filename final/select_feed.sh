@@ -43,9 +43,10 @@ wait_for_button()
 			echo "killed" > /tmp/killed
 			echo "Enter"
 			let but_pressed=1
-			#./button_kill.sh
+			./button_kill.sh & 
 			# tmux new -s name -d ./reproduse.sh $pos
 			./reproduse.sh $pos
+			pkill -f button_kill.sh
 		fi
 
 		sleep 0.1

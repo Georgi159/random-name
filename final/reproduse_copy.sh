@@ -2,7 +2,7 @@
 
 find . -name 'feed*' -delete ;
 
-read_butonts () {
+read_buttons () {
 sed $1'!d'  $(cat location_of_buton) | sed 's/B[0-9]\s//'
 }
 
@@ -54,6 +54,8 @@ wait_for_button()
 
 IFS=$'\n'
 k=0;
+pos=1
+
 #for i in $(cat links.txt); do
 for i in $(sed $1'!d' /home/pi/random-name/final/rss_feeds.txt); do
 	((k++))
@@ -61,12 +63,11 @@ for i in $(sed $1'!d' /home/pi/random-name/final/rss_feeds.txt); do
 	cp feed"$k".txt test.txt
 	./desc_check.sh test.txt
 	m=0;
-	pos=0
 	for l in $(echo "cat /rss/channel/item/title/text()" | xmllint --nocdata --shell feed"$k".txt | sed '1d;$d' |sed -e ':a;N;$!ba;s/-------\n/ /g' ) #| sed -e 's/ /%/g' | sed -e 's/%-------/ /g');
 	do
 		pwd
 		((m++))
-
+		echo "======================="
 		# for (( i = 0; i < m; i++ )); 
 		# do
 		# 	description=$(echo "cat /rss/channel/item/description/text()" | xmllint --nocdata --shell feed"$k".txt | sed '1d;$d' |sed -e ':a;N;$!ba;s/-------\n/ /g' );

@@ -11,7 +11,8 @@ while [[ true ]]; do
     but2=$(read_buttons 2 "/tmp/button_values.io")
     if [[ $but2 -eq 1 ]]; then
     	killall -9 play
-    	tmux kill-session -t name
+    #	tmux kill-session -t name
+        pkill -f reproduse.sh
         echo daadasdasd
     fi
 

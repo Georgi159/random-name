@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Jun 2018 06:03:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jun 2018 06:30:12 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -20,7 +20,7 @@
             <description><![CDATA[Justice Anthony Kennedy's retirement allows the president to shift the top court further to the right.]]></description>
             <link>https://www.bbc.co.uk/news/world-us-canada-44638092</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44638092</guid>
-            <pubDate>Thu, 28 Jun 2018 04:21:27 GMT</pubDate>
+            <pubDate>Thu, 28 Jun 2018 06:28:53 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/180A9/production/_102237489_gettyimages-666932190.jpg"/>
         </item>
         <item>
@@ -125,7 +125,7 @@
             <link>https://www.bbc.co.uk/news/world-44638305</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-44638305</guid>
             <pubDate>Thu, 28 Jun 2018 02:55:08 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/D4C9/production/_102237445_p06c8mzf.jpg"/>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/011B/production/_102238200_mediaitem102238199.jpg"/>
         </item>
         <item>
             <title><![CDATA[Fans react to Germany's World Cup exit]]></title>
