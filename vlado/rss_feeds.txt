@@ -1,0 +1,5 @@
+http://feeds.bbci.co.uk/sport/rss.xml
+http://feeds.bbci.co.uk/news/world/rss.xml
+http://feeds.reuters.com/Reuters/worldNews
+http://rss.cnn.com/rss/edition.rss
+http://feeds.bbci.co.uk/news/world/rss.xml?edition=uk

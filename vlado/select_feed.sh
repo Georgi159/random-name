@@ -25,6 +25,7 @@ wait_for_button()
 			echo "Back"
 			((pos=0))
 			let but_pressed=1
+			exit
 		fi
 
 		but3=$(read_buttons 3 "/tmp/button_values.io")
@@ -69,7 +70,7 @@ sel=0
 #exec 0<&10 10<&-
 
 declare -a feed_titles
-for i in $(cat ../georgi/links.txt)
+for i in $(cat rss_feeds.txt)
 do
 	((k++))
 	curl -s $i > feed"$k".txt
