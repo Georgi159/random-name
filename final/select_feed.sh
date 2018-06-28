@@ -45,7 +45,9 @@ wait_for_button()
 			let but_pressed=1
 			./button_kill.sh & 
 			# tmux new -s name -d ./reproduse.sh $pos
+			./ledControl.out 1 2 2 2
 			./reproduse.sh $pos
+			./ledControl.out 0 2 2 2
 			pkill -f button_kill.sh
 		fi
 

@@ -11,7 +11,7 @@
             <link>https://www.bbc.co.uk/news/</link>
         </image>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Thu, 28 Jun 2018 06:30:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Jun 2018 07:01:33 GMT</lastBuildDate>
         <copyright><![CDATA[Copyright: (C) British Broadcasting Corporation, see http://news.bbc.co.uk/2/hi/help/rss/4498287.stm for terms and conditions of reuse.]]></copyright>
         <language><![CDATA[en-gb]]></language>
         <ttl>15</ttl>
@@ -22,6 +22,14 @@
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44638092</guid>
             <pubDate>Thu, 28 Jun 2018 06:28:53 GMT</pubDate>
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/180A9/production/_102237489_gettyimages-666932190.jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Kenya fire: Several dead in Nairobi market]]></title>
+            <description><![CDATA[The blaze at the Gikomba market, one of the largest in Nairobi, kills at least 15 people, media say.]]></description>
+            <link>https://www.bbc.co.uk/news/world-africa-44640504</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-africa-44640504</guid>
+            <pubDate>Thu, 28 Jun 2018 07:00:30 GMT</pubDate>
+            <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/EF53/production/_97176216_breaking_news_bigger.png"/>
         </item>
         <item>
             <title><![CDATA[Thai cave: Rising water stops divers searching for missing boys]]></title>
@@ -96,14 +104,6 @@
             <media:thumbnail width="976" height="549" url="http://c.files.bbci.co.uk/C154/production/_102229494_tv047650491.jpg"/>
         </item>
         <item>
-            <title><![CDATA[Air strikes knock out Syrian hospitals]]></title>
-            <description><![CDATA[Three facilities are put out of service as troops press on with an offensive in Deraa province.]]></description>
-            <link>https://www.bbc.co.uk/news/world-middle-east-44628879</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-middle-east-44628879</guid>
-            <pubDate>Wed, 27 Jun 2018 11:58:03 GMT</pubDate>
-            <media:thumbnail width="2048" height="1152" url="http://c.files.bbci.co.uk/843C/production/_102225833_mediaitem102225832.jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Mexico election: Who is Andres Manuel Lopez Obrador or 'Amlo'?]]></title>
             <description><![CDATA[Here are five things you need to know about Andres Manuel Lopez Obrador or "Amlo".]]></description>
             <link>https://www.bbc.co.uk/news/world-latin-america-44634373</link>
@@ -144,20 +144,20 @@
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/E5DB/production/_102234885_p06c7vjp.jpg"/>
         </item>
         <item>
+            <title><![CDATA[Why this 1935 footage of FDR is so unusual]]></title>
+            <description><![CDATA[The FDR Presidential Library has released a video of former president Franklin Roosevelt, showing something that was rarely seen.]]></description>
+            <link>https://www.bbc.co.uk/news/world-us-canada-44636244</link>
+            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44636244</guid>
+            <pubDate>Wed, 27 Jun 2018 16:53:17 GMT</pubDate>
+            <media:thumbnail width="1024" height="575" url="http://c.files.bbci.co.uk/9171/production/_102233273_p06c7n5m.jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Prince William honours his great grandmother in Jerusalem]]></title>
             <description><![CDATA[Who was Prince William's great grandmother and how did she help Greek Jews during the Second World War?]]></description>
             <link>https://www.bbc.co.uk/news/world-44634594</link>
             <guid isPermaLink="true">https://www.bbc.co.uk/news/world-44634594</guid>
             <pubDate>Thu, 28 Jun 2018 01:21:05 GMT</pubDate>
             <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/48AB/production/_102230681_p06c7ccb.jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Alexandria Ocasio-Cortez: The millennial candidate who defeated a political veteran]]></title>
-            <description><![CDATA[Alexandria Ocasio-Cortez is a Bronx native and political novice could become the youngest ever woman in Congress if elected in November.]]></description>
-            <link>https://www.bbc.co.uk/news/world-us-canada-44636625</link>
-            <guid isPermaLink="true">https://www.bbc.co.uk/news/world-us-canada-44636625</guid>
-            <pubDate>Wed, 27 Jun 2018 18:57:07 GMT</pubDate>
-            <media:thumbnail width="1024" height="576" url="http://c.files.bbci.co.uk/154C1/production/_102233278_p06c7snk.jpg"/>
         </item>
         <item>
             <title><![CDATA[World Cup 2018: Mexico fans celebrate South Korean 'brothers']]></title>
